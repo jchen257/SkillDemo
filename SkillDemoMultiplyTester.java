@@ -7,6 +7,6 @@ import org.junit.*;
 public class SkillDemoMultiplyTester {
     @Test
     public void multiply() {
-        assertEquals(5, SkillDemoMultiply.multiply(2, 2));
+        assertEquals(4, SkillDemoMultiply.multiply(2, 2));
     }
 }
